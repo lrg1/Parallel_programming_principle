@@ -1,2 +1,1 @@
-# functional_programming_PPT
-华中科技大学函数式编程原理PPT
+华中科技大学并行编程原理ppt 课程迷的一批，不知道在讲什么
